@@ -11,7 +11,7 @@
 
         npm install
 
-4.  Run the with `npm`:
+4.  Run with `npm`:
 
         npm start
 
