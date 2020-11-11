@@ -2,22 +2,17 @@
 
 ## Run Locally
 1. [Setup your environment for Node.js developement](https://nodejs.org/).
-2. [Install the Google Cloud SDK][(https://cloud.google.com/sdk/).
-3.  Acquire local credentials for authenticating with Google Cloud Platform APIs:
 
-        gcloud auth application-default login
+2.  Clone this repo:
 
-4.  Clone this repo:
+        git clone https://github.com/HACC2020/WAP.git
 
-        git clone https://github.com/GoogleCloudPlatform/nodejs-docs-samples.git
-
-6.  Install depedencies:
+3.  Install depedencies:
 
         npm install
 
-7.  Run the with `npm`:
+4.  Run the with `npm`:
 
         npm start
 
-
-8.  Visit the application at [http://localhost:8080]().
+5.  Visit the application at [http://localhost:8080]().
