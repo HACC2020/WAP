@@ -1,0 +1,23 @@
+{
+  "name": "wap",
+  "version": "1.0.0",
+  "description": "covid chatbot",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HACC2020/WAP.git"
+  },
+  "author": "Matthew Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HACC2020/WAP/issues"
+  },
+  "homepage": "https://github.com/HACC2020/WAP#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.1"
+  }
+}
